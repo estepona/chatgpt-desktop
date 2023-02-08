@@ -1,4 +1,10 @@
 {
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true,
+    "**/release/**": true
+  },
   "files.autoSave": "afterDelay",
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
@@ -21,10 +27,4 @@
   "[css]": {
     "editor.formatOnSave": true
   },
-  "cSpell.words": [
-    "douban",
-    "menu",
-    "selected",
-    "submenu"
-  ]
 }
