@@ -7,7 +7,7 @@
 
 ![screenshot](./asset/app.png)
 
-Nothing but a desktop portal to [chat.opai.com](https://chat.openai.com) so that you don't have to go to a browser and click a tab in order to use it. Looks and feels the same as [chat.opai.com](https://chat.openai.com). All glories to the [OpenAI team](https://openai.com/)!
+Nothing but a desktop portal to [chat.openai.com](https://chat.openai.com) so that you don't have to go to a browser and click a tab in order to use it. Looks and feels the same as [chat.openai.com](https://chat.openai.com). All glories to the [OpenAI team](https://openai.com/)!
 
 ## Install
 
