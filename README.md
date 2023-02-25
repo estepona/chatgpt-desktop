@@ -3,7 +3,7 @@
   <p>A simple ChatGPT desktop client for your convenience.</p>
   <img src="https://img.shields.io/badge/electron-22.2.0-blue"/>
   <img src="https://img.shields.io/badge/typescript-3.9.10-blueviolet"/>
-  <img src="https://img.shields.io/badge/downloaded-81-brightgreen"/>
+  <img src="https://img.shields.io/badge/downloaded-84-brightgreen"/>
 </div>
 
 ![screenshot](./asset/app.png)
