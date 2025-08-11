@@ -1,6 +1,7 @@
 <div align=center>
   <h1>ChatGPT Desktop</h1>
   <p>A simple ChatGPT desktop client for your convenience.</p>
+  <p><b>ARCHIVED</b>: Please use ChatGPT's official desktop client instead: https://openai.com/chatgpt/desktop/</p>
   <img src="https://img.shields.io/badge/electron-22.2.0-blue"/>
   <img src="https://img.shields.io/badge/typescript-3.9.10-blueviolet"/>
   <img src="https://img.shields.io/badge/downloaded-614-brightgreen"/>
